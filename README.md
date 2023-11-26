@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Julien</h1>
 <h3 align="center">A passionate developer and tech lover from Switzerland</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JxZHFmZGtzdXpyY29vNThudjN1aGRncnYyNXU2M215bjd0djg0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning : **Vue.js, TypeScript, Crawling and web scraping**
 
-- 👨‍💻 All of my projects are available at [https://niwa-yume.github.io/Portefolio_HTML_CSS/](https://niwa-yume.github.io/Portefolio_HTML_CSS/)
+- 👨‍💻 All of my projects are available at [Mon Portefolio](https://niwa-yume.github.io/Portefolio_HTML_CSS/)
 
 - 📫 How to reach me **julien.castro@protonmail.com**
 
-- 📄 Know about my experiences [CV version novembre 2023 .pdf](CV version novembre 2023 .pdf)
+- 📄 Know about my experiences [Clique pour télécharger mon cv](CV version novembre 2023 .pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
