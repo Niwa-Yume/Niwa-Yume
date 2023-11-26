@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **julien.castro@protonmail.com**
 
-- 📄 Know about my experiences [Clique pour télécharger mon cv](CV version novembre 2023 .pdf)
+- 📄 Know about my experiences [Clique pour télécharger mon cv](https://github.com/Niwa-Yume/Niwa-Yume/blob/main/CV%20version%20novembre%202023%20.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
