@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Noctinium](https://github.com/Niwa-Yume/Noctinium)
 
-- 🌱 I’m currently learning **vu,js, TypeScript, Crawling and web scraping**
+- 🌱 I’m currently learning : **Vue.js, TypeScript, Crawling and web scraping**
 
 - 👨‍💻 All of my projects are available at [https://niwa-yume.github.io/Portefolio_HTML_CSS/](https://niwa-yume.github.io/Portefolio_HTML_CSS/)
 
