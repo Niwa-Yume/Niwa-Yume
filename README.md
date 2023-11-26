@@ -1,9 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Julien</h1>
 <h3 align="center">A passionate frontend developer from Switzerland</h3>
-
-![coding]([https://bobbyhadz.com/images/blog/change-vscode-integrated-terminal-colors/hover-over-color.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JxZHFmZGtzdXpyY29vNThudjN1aGRncnYyNXU2M215bjd0djg0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif))
-
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JxZHFmZGtzdXpyY29vNThudjN1aGRncnYyNXU2M215bjd0djg0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niwa-yume&label=Profile%20views&color=0e75b6&style=flat" alt="niwa-yume" /> </p>
 
