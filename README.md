@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning : **Vue.js, TypeScript, Crawling and web scraping**
 
-- 👨‍💻 All of my projects are available at [Mon Portefolio](Portfolio)](https://portfolio-design-figma-alpha.vercel.app/)
+- 👨‍💻 All of my projects are available at [Mon Portefolio](https://portfolio-design-figma-alpha.vercel.app/)
 
 - 📫 How to reach me **julien.castro@protonmail.com**
 
