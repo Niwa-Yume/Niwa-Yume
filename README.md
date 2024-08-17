@@ -53,7 +53,6 @@
           <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="Github logo" />
           <img src="https://img.icons8.com/color/48/000000/console.png" width="53" alt="Console logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52" alt="Bash logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="52" alt="MariaDB logo" />
         </td>
     </tr>
 </table>
