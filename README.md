@@ -5,15 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niwa-yume&label=Profile%20views&color=0e75b6&style=flat" alt="niwa-yume" /> </p>
 
-- 🔭 I’m currently working on [Noctinium](https://github.com/Niwa-Yume/Noctinium)
+<h1  align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🌱 I’m currently learning : **Vue.js, TypeScript, Crawling and web scraping**
+  <!-- Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
+</p>
 
-- 👨‍💻 All of my projects are available at [Mon Portefolio](https://portfolio-design-figma-alpha.vercel.app/)
+  <!-- Profile Picture -->
+<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
-- 📫 How to reach me **julien.castro@protonmail.com**
-
-- 📄 Know about my experiences [MY CV](https://github.com/Niwa-Yume/Niwa-Yume/blob/main/CV%20version%20novembre%202023%20.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
