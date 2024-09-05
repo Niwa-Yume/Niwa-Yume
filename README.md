@@ -56,5 +56,6 @@
 
 
 <br>
-
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niwa-Yume)](https://github.com/Niwa-Yume/github-readme-stats)
+</p>
